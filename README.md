@@ -8,4 +8,6 @@ Funcionalidades:
 
 -Atualização automática a cada segundo usando JavaScript.
 
- Link para a página web: https://pedrolucasbragaximenes.github.io/Projeto-Relogio-Digital/
+🔗 Acesse o projeto aqui:
+
+https://pedrolucasbragaximenes.github.io/Projeto-Relogio-Digital/
